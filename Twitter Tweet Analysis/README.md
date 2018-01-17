@@ -17,7 +17,7 @@ Today, data becomes a driving force to make decisions affecting millions of peop
 **Data:**
 
 * The trending topic for this project has been taken from [trends24](https://trends24.in/united-states/)
-* The positive, negative and stop  words list has been collected from a GitHub user **mkulakowski2** 
+* The positive, negative and stop  words list has been collected from a GitHub user [mkulakowski2](https://github.com/mkulakowski2)
 
 
 ******************************************************************************************************************************
