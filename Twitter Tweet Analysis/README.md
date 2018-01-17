@@ -23,21 +23,37 @@ Today, data becomes a driving force to make decisions affecting millions of peop
 ******************************************************************************************************************************
 ******************************************************************************************************************************
 
-### II.	Analysis:
+### II. 	Development Process:  
 
-* 
+* Collecting the data generated using the python script and the trending topic of the day 
+* Storing the data in a txt file and then preforming various steps to clean the dirty data 
+* Once the data has been cleaned and stored in a proper format, it is matched with the postive, negative and stop words
+* If the data has any of the postive or negative words that match with postive and negative word list the count is incremented 
+* If a stop word is encountered the count is skipped 
+* Finding the sum of the total negative and postive words to see if the sentiment for that trending topic is in general positive or negative.
+
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
 
-### III. Future Enhancements:
+### III.	Analysis:
 
-1) Improvement - 
+* The topic I had selected was 
+* The total number of postive words in the data that matched with postive word list txt file is 
+* The total number of negative words in the data that matched with negative word list txt file is 
+* Hence the general sentiment of the trending topic is 
+
+******************************************************************************************************************************
+******************************************************************************************************************************
+
+### IV. Future Enhancements:
+
+1) Improvement - See 
 *  Outcome - 
 
 ******************************************************************************************************************************
 ******************************************************************************************************************************
-### IV. References 
+### V. References 
 
 * Negative words - https://gist.github.com/mkulakowski2/4289441
 
